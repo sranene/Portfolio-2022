@@ -1,6 +1,6 @@
 # Portfolio website 2022
 
-A personal portfolio website designed to showcase a wide range of skills learned during the Web Programming course. The site incorporates various features and interactive elements to demonstrate the diversity of concepts and technologies explored throughout the **Programação Web 21/22 course**.
+A personal portfolio website that incorporates various features and interactive elements to demonstrate the diversity of concepts and technologies explored throughout the **Programação Web 21/22 course**.
 
 To get the full experience of the website, including a detailed walkthrough of the code and its implementation, I recommend watching the YouTube video.
 
