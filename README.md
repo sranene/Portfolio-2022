@@ -44,6 +44,14 @@ Youtube link: https://www.youtube.com/watch?v=58U9ww280_M
   <img src="https://github.com/user-attachments/assets/a1cd3ad0-fe47-480d-b040-cb788eec98ae" height="260"/>
 </p>
 
+## Built With
+
+- Django
+- Python
+- JavaScript
+- HTML
+- CSS
+
 ## Author
 
 - Inês Marques
